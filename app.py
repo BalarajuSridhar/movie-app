@@ -20,7 +20,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.image("https://i.imgur.com/8fKQKcF.png", width=300)
+st.image("gjft.jpg", width=200)
 st.title("🍿 Welcome to the Movie Quiz!")
 st.markdown("Fill in your details to participate in our fun & exciting movie quiz. 🎥")
 
